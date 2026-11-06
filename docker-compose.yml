@@ -7,7 +7,7 @@ services:
     restart: unless-stopped
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: docker
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-docker}
       POSTGRES_DB: skill_exam_2400031742
     ports:
       - "5432:5432"
@@ -30,6 +30,10 @@ services:
     container_name: exam-service
     ports:
       - "9001:9090"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgresdb:5432/skill_exam_2400031742
+      SPRING_DATASOURCE_USERNAME: postgres
+      SPRING_DATASOURCE_PASSWORD: ${POSTGRES_PASSWORD:-docker}
     depends_on:
       postgresdb:
         condition: service_healthy
