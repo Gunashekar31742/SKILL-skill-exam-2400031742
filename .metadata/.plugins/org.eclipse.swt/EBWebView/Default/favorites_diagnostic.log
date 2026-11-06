@@ -1,0 +1,29 @@
+2026-11-06 02:03:16.834: [INFO] CurrentProfilePath: D:\SOA\skillexamworkspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 02:03:16.834: [INFO] Profiles total count: 1
+2026-11-06 02:03:16.834: [INFO] Profile: name=Profile 1 path=D:\SOA\skillexamworkspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-11-06 02:03:16.834: [INFO] LastUsedProfileDir: D:\SOA\skillexamworkspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 02:03:16.834: [INFO] OnDoneLoading sync enabled: 0
+2026-11-06 02:03:16.834: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-06 02:03:16.834: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-06 02:03:16.834: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 02:03:31.831: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 02:03:33.245: [INFO] CurrentProfilePath: D:\SOA\skillexamworkspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 02:03:33.245: [INFO] Profiles total count: 1
+2026-11-06 02:03:33.245: [INFO] Profile: name=Profile 1 path=D:\SOA\skillexamworkspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-06T02:03:19.381Z
+2026-11-06 02:03:33.245: [INFO] LastUsedProfileDir: D:\SOA\skillexamworkspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 02:03:33.245: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\SOA\skillexamworkspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-06T02:03:19.381Z
+2026-11-06 02:03:33.245: [INFO] OnDoneLoading sync enabled: 0
+2026-11-06 02:03:33.245: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-06 02:03:33.245: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-06 02:03:33.245: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 02:06:24.380: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 02:08:04.703: [INFO] CurrentProfilePath: D:\SOA\skillexamworkspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 02:08:04.703: [INFO] Profiles total count: 1
+2026-11-06 02:08:04.703: [INFO] Profile: name=Profile 1 path=D:\SOA\skillexamworkspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-06T02:03:19.381Z
+2026-11-06 02:08:04.703: [INFO] LastUsedProfileDir: D:\SOA\skillexamworkspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 02:08:04.703: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\SOA\skillexamworkspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-06T02:03:19.381Z
+2026-11-06 02:08:04.703: [INFO] OnDoneLoading sync enabled: 0
+2026-11-06 02:08:04.703: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-06 02:08:04.703: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-06 02:08:04.703: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 02:37:16.026: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
