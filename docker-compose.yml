@@ -23,7 +23,7 @@ services:
       - microservices-network
 
   exam-service:
-    image: gunashekar31742/exam-service:latest
+    image: gunashekar31742/docker-skill-exam-2400031742:latest
     build:
       context: ./SpringBootProject
       dockerfile: Dockerfile
